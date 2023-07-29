@@ -1,0 +1,59 @@
+# Logs
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+
+frontend/node_modules
+frontend/dist
+frontend/dist-ssr
+frontend/*.local
+
+# Editor directories and files
+frontend/.vscode/*
+frontend/!.vscode/extensions.json
+frontend/.idea
+frontend/.DS_Store
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
+frontend/src/assets/videos/*
+
+# api
+/venv
+env
+.idea
+venv
+.cmds
+/backend/venv
+/backend/env
+/backend/__pycache__
+/backend/project/__pycache__
+/backend/*.pyc
+/backend/.env
+/backend/.flaskenv
+/backend/migrations/__pycache__/
+/backend/migrations/versions/__pycache__/
+/backend/project/models/__pycache__/
+/backend/project/routes/__pycache__/
+/backend/project/decorators/__pycache__/
+
+.env
+env-dev
+env-prod
+env-inrh
+env-test
+
+# MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+Footer
