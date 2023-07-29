@@ -5,3 +5,4 @@ Email: a.benmhamed@intelligentica.net
 Website: https://intelligentica.net
 Client: Insitut National de Recherche Halieutique (Morocco)
 """
+from .user_model import User
